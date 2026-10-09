@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-32j4je.qween.dev/sitemap.xml
